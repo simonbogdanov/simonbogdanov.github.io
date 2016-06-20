@@ -1,9 +1,11 @@
-
+.container	{
+	max-width: 1000px;
+	margin: 0 auto;
+}
 h1	{
 	display: block;
 	border: 1px solid grey;
 	text-align: center;
-	width: 70%;
 	margin: 0 auto;
 }
 
